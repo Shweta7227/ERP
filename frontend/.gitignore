@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+timetables
+public/timetables 
+mca_sem2_timetable.jpeg
+/frontend/public/timetables/
